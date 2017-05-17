@@ -1,0 +1,19 @@
+{
+  "item": [
+   { "id": 1, "name": "otak-otak", "price": "20000","categories":"food","image":"https://4.bp.blogspot.com/-DxSl8N6Sz2o/Ve0-ptbpJ8I/AAAAAAAAAMw/dudbyP5-8DA/s1600/Resep%2BMembuat%2BOtak-Otak%2BBakar.jpg" },
+   { "id": 2, "name": "Getas", "price": "20000","categories":"snack","image":"https://photo.kontan.co.id/photo/2011/10/25/1740059034p.jpg" },
+   { "id": 3, "name": "satam", "price": "20000","categories":"sovenier","image":"https://i2.wp.com/i365.photobucket.com/albums/oo99/ekoprobo/Negeri%20Laskar%20Pelangi/IMG_4312_zps7997a366.jpg" },
+   { "id": 4, "name": "otak-otak", "price": "20000","categories":"food","image":"https://4.bp.blogspot.com/-DxSl8N6Sz2o/Ve0-ptbpJ8I/AAAAAAAAAMw/dudbyP5-8DA/s1600/Resep%2BMembuat%2BOtak-Otak%2BBakar.jpg" },
+   { "id": 5, "name": "Getas", "price": "20000","categories":"snack","image":"https://photo.kontan.co.id/photo/2011/10/25/1740059034p.jpg" },
+   { "id": 6, "name": "satam", "price": "20000","categories":"sovenier","image":"https://i2.wp.com/i365.photobucket.com/albums/oo99/ekoprobo/Negeri%20Laskar%20Pelangi/IMG_4312_zps7997a366.jpg" },
+   { "id": 7, "name": "otak-otak", "price": "20000","categories":"food","image":"https://4.bp.blogspot.com/-DxSl8N6Sz2o/Ve0-ptbpJ8I/AAAAAAAAAMw/dudbyP5-8DA/s1600/Resep%2BMembuat%2BOtak-Otak%2BBakar.jpg" },
+   { "id": 8, "name": "Getas", "price": "20000","categories":"snack","image":"https://photo.kontan.co.id/photo/2011/10/25/1740059034p.jpg" },
+   { "id": 9, "name": "satam", "price": "20000","categories":"sovenier","image":"https://i2.wp.com/i365.photobucket.com/albums/oo99/ekoprobo/Negeri%20Laskar%20Pelangi/IMG_4312_zps7997a366.jpg" },
+   { "id": 10, "name": "otak-otak", "price": "20000","categories":"food","image":"https://4.bp.blogspot.com/-DxSl8N6Sz2o/Ve0-ptbpJ8I/AAAAAAAAAMw/dudbyP5-8DA/s1600/Resep%2BMembuat%2BOtak-Otak%2BBakar.jpg" },
+   { "id": 11, "name": "Getas", "price": "20000","categories":"snack","image":"https://photo.kontan.co.id/photo/2011/10/25/1740059034p.jpg" },
+   { "id": 12, "name": "satam", "price": "20000","categories":"sovenier","image":"https://i2.wp.com/i365.photobucket.com/albums/oo99/ekoprobo/Negeri%20Laskar%20Pelangi/IMG_4312_zps7997a366.jpg" },
+   { "id": 13, "name": "otak-otak", "price": "20000","categories":"food","image":"https://4.bp.blogspot.com/-DxSl8N6Sz2o/Ve0-ptbpJ8I/AAAAAAAAAMw/dudbyP5-8DA/s1600/Resep%2BMembuat%2BOtak-Otak%2BBakar.jpg" },
+   { "id": 14, "name": "Getas", "price": "20000","categories":"snack","image":"https://photo.kontan.co.id/photo/2011/10/25/1740059034p.jpg" },
+   { "id": 15, "name": "satam", "price": "20000","categories":"sovenier","image":"https://i2.wp.com/i365.photobucket.com/albums/oo99/ekoprobo/Negeri%20Laskar%20Pelangi/IMG_4312_zps7997a366.jpg" }
+ ]
+}
